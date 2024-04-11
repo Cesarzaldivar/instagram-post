@@ -1,0 +1,46 @@
+body {
+    background: black;
+  }
+  .container {
+    background-color: white;
+    height: 620px;
+    width: 380px;
+    margin: auto;
+  }
+  .header {
+    /*background-color: red;*/
+    display: flex;
+    justify-content: space-between;
+  }
+  .fa-html5 {
+    font-size: 30px;
+  }
+  .left {
+    /*background-color: yellow;*/
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+  }
+  .left p {
+    margin: 0px;
+    padding: 0px;
+  }
+  .right {
+    /*background-color: pink;*/
+    margin-right: 10px;
+    font-size: 35px;
+  }
+  .imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 100%;
+  }
+  .iconos {
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+  }
+  
